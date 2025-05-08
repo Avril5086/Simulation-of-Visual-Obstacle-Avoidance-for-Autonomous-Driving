@@ -1,0 +1,7 @@
+
+folium
+pywebview
+opencv-python
+ultralytics
+numpy
+geopy
